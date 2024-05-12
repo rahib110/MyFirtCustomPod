@@ -22,6 +22,11 @@ public class DashboardViewController: UIViewController {
         label.frame = CGRect(origin: self.view.frame.origin, size: CGSize(width: self.view.frame.width, height: 50))
         label.textAlignment = .center
         self.view.addSubview(label)
+        
+        let image = UIImage(named: "abc")
+        let imgView = UIImageView(frame: CGRect(origin: CGPoint(x: self.view.frame.origin.x, y: self.view.frame.origin.y + label.frame.height + 20), size: image?.size ?? CGSize(width: 0, height: 0)))
+        imgView.image = image
+        self.view.addSubview(imgView)
     }
     
 

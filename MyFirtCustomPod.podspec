@@ -31,9 +31,9 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'MyFirtCustomPod/Classes/**/*'
-  
+#  s.resources = 'MyFirtCustomPod/abc/**/*'
    s.resource_bundles = {
-     'MyFirtCustomPod' => ['MyFirtCustomPod/Assets/**/*']
+     'MyFirtCustomPod' => ['MyFirtCustomPod/Resources/**/*.xcassets']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
