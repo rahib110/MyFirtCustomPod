@@ -1,6 +1,6 @@
 {
   "name": "MyFirtCustomPod",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A short description of MyFirtCustomPod.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/rahib110/MyFirtCustomPod",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/rahib110/MyFirtCustomPod.git",
-    "tag": "0.2.0"
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "10.0"
