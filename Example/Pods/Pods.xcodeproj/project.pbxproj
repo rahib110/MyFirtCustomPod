@@ -7,72 +7,84 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		180ABA93644A0EA2C5FC2486851B8049 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		0A180DF5D6C52F36708A5961EF2AEED3 /* MyFirtCustomPod-MyFirtCustomPod in Resources */ = {isa = PBXBuildFile; fileRef = 2E2746A0071492ACF1FA53026D3042E7 /* MyFirtCustomPod-MyFirtCustomPod */; };
+		100F9E2ECFC499439F186595E1049C9A /* MyFirtCustomPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 91C5B6C26FC2E6B008820A1EA9458274 /* MyFirtCustomPod-dummy.m */; };
+		4380B3BDED8A1F3751DCAF98A7370E80 /* MyFirtCustomPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CD6C0EF241B4225DEC024AFAC7FDD854 /* MyFirtCustomPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5C944925EA378015DE2640C10E0FE545 /* Pods-MyFirtCustomPod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 91A737D5BD8686C52AD5773BFBDA0829 /* Pods-MyFirtCustomPod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		955D384EF95A1F4A6FFE216DAF679DAC /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BED169B930D727A5180858AFA0BB220 /* DashboardViewController.swift */; };
+		73A66650B989B9AEC39FD244577953D8 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A788D01343F5E3B3603DCFC56CB75399 /* DashboardViewController.swift */; };
+		7D2D82ADC9E1FD53C9A407200F608CF7 /* Images. xcassets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AFCC653A3E2135735413390BF0E81C2 /* Images. xcassets.xcassets */; };
 		A0B0950DEC7CBF83C5C75BCE26C3F73E /* Pods-MyFirtCustomPod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F2A901FDA9FB7A527A9815C3E927117D /* Pods-MyFirtCustomPod_Tests-dummy.m */; };
-		AEA7622E7524042F46AE8E63621FAEE9 /* DashboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A389EBAF275C5FE80DE54882DFC874B /* DashboardVC.swift */; };
+		AAE6178D884596F2BCE31828BDA49A01 /* DashboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF705EF779D54F2764B0468355C0DD0 /* DashboardVC.swift */; };
+		ACC70A49686BC179053FAA3F0739505D /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0285AED841B9E79F1BC30402B0A08E3 /* ReplaceMe.swift */; };
 		B0D691A75860126BAC551F5A761FB6D3 /* Pods-MyFirtCustomPod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB59D3CF3A6B46BC96A698D354D766D0 /* Pods-MyFirtCustomPod_Example-dummy.m */; };
-		B4CD4D270D0081A7A7067254A1DC3BA1 /* MyFirtCustomPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C4DBEB56C4DC8E266F2AD69C4588C378 /* MyFirtCustomPod-dummy.m */; };
 		B95704E6D65601928127D22DB1AD72BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		BC18CAF8E02E2C4A70353CAAC4EA25C3 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302AC271E2CF0424E2EECC3F6D74804F /* ReplaceMe.swift */; };
 		C5A7C3473FE7BDE45077D3175D670074 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		DF7EDE2A4D94EEDFB82D947E58C346FB /* MyFirtCustomPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 71D2A2079D16A25B122D0A1229059289 /* MyFirtCustomPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F641F8BC1306536E12DB9FE95C60B442 /* Pods-MyFirtCustomPod_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 734CCA12E89E6AF73B8DCA001BB01727 /* Pods-MyFirtCustomPod_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAC1B0EBC534DA5997210F5D6F554CCF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		05D82A759FA8A055D21F80ECB4EE002E /* PBXContainerItemProxy */ = {
+		5B79EA57AE84C151FC7EB8B0EAC8E944 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 87CC0CB33CD2849B8A9BE5C1582018EB;
 			remoteInfo = "Pods-MyFirtCustomPod_Example";
 		};
-		54134BE5A1EC9B021FD421AD2C17BB07 /* PBXContainerItemProxy */ = {
+		5C9FD1D280F77DD1F2DB8F1F446B42F1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 3296CDF826E5CE581DDEEEB043805EA7;
 			remoteInfo = MyFirtCustomPod;
 		};
+		9EB30E26E8DBBC629A7C6876AB042141 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7BE16BCC8C19B7741F781748D65EE380;
+			remoteInfo = "MyFirtCustomPod-MyFirtCustomPod";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0AE8B3567C49FB5CE651D42B061567A2 /* Pods-MyFirtCustomPod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyFirtCustomPod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		0AFA1D51677848B851A92DEFAD692F05 /* Pods-MyFirtCustomPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyFirtCustomPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		13529DC7AE853D284C40FF12F3B1A693 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		1C0A0FE0A45C486CF0C849635EA5F279 /* Pods-MyFirtCustomPod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyFirtCustomPod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		2A14CCE61250ABC24A5C1B31D23A215A /* Pods-MyFirtCustomPod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyFirtCustomPod_Example.release.xcconfig"; sourceTree = "<group>"; };
+		2E2746A0071492ACF1FA53026D3042E7 /* MyFirtCustomPod-MyFirtCustomPod */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "MyFirtCustomPod-MyFirtCustomPod"; path = MyFirtCustomPod.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EAB5B88FA4A8E0A201F03632D864877 /* Pods-MyFirtCustomPod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyFirtCustomPod_Example-frameworks.sh"; sourceTree = "<group>"; };
-		302AC271E2CF0424E2EECC3F6D74804F /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MyFirtCustomPod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		37DAB82009EDB636DDA713CCA527D7A5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		46151BE7F1D93CEF76FCB5D7B61B2BC2 /* MyFirtCustomPod */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyFirtCustomPod; path = MyFirtCustomPod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BE008DAB2AA0B5D91B84BB931FDCAA4 /* MyFirtCustomPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyFirtCustomPod.debug.xcconfig; sourceTree = "<group>"; };
+		4C1B422A9D9DB7BE36B9CAA04E170727 /* MyFirtCustomPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyFirtCustomPod.release.xcconfig; sourceTree = "<group>"; };
 		54E2BFE256A61C5DE088E4C538452D44 /* Pods-MyFirtCustomPod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyFirtCustomPod_Tests.modulemap"; sourceTree = "<group>"; };
 		6274547635ADC453FB0E58B6C44EA11B /* Pods-MyFirtCustomPod_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyFirtCustomPod_Example.modulemap"; sourceTree = "<group>"; };
-		71D2A2079D16A25B122D0A1229059289 /* MyFirtCustomPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyFirtCustomPod-umbrella.h"; sourceTree = "<group>"; };
+		648626B513D33FCE90AE7A975036D291 /* MyFirtCustomPod-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyFirtCustomPod-Info.plist"; sourceTree = "<group>"; };
+		65190BEF9DB0692A15981EC025775608 /* MyFirtCustomPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MyFirtCustomPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		696A5123B9E2514ADA0F10598D1ED8DA /* MyFirtCustomPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyFirtCustomPod.modulemap; sourceTree = "<group>"; };
+		6AFCC653A3E2135735413390BF0E81C2 /* Images. xcassets.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = "Images. xcassets.xcassets"; path = "MyFirtCustomPod/Resources/Images. xcassets.xcassets"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		734CCA12E89E6AF73B8DCA001BB01727 /* Pods-MyFirtCustomPod_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyFirtCustomPod_Example-umbrella.h"; sourceTree = "<group>"; };
-		7450CAECE345C7D402311E25F24F9EFA /* MyFirtCustomPod-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyFirtCustomPod-Info.plist"; sourceTree = "<group>"; };
 		786147EF8C2A83A7FC04AA9BC078E59E /* Pods-MyFirtCustomPod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyFirtCustomPod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		7A389EBAF275C5FE80DE54882DFC874B /* DashboardVC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DashboardVC.swift; path = MyFirtCustomPod/Classes/DashboardVC.swift; sourceTree = "<group>"; };
-		7BED169B930D727A5180858AFA0BB220 /* DashboardViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DashboardViewController.swift; path = MyFirtCustomPod/Classes/DashboardViewController.swift; sourceTree = "<group>"; };
-		7FD7478B0C0DAD658519A033FE5E3F94 /* MyFirtCustomPod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MyFirtCustomPod.modulemap; sourceTree = "<group>"; };
-		813637FC455CFE2462A0248A79D24D3D /* MyFirtCustomPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MyFirtCustomPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		8171F74AB41B2C5F76BFE0CE92A849C8 /* MyFirtCustomPod.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyFirtCustomPod.release.xcconfig; sourceTree = "<group>"; };
 		91A737D5BD8686C52AD5773BFBDA0829 /* Pods-MyFirtCustomPod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyFirtCustomPod_Tests-umbrella.h"; sourceTree = "<group>"; };
+		91C5B6C26FC2E6B008820A1EA9458274 /* MyFirtCustomPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyFirtCustomPod-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A06981B2DC28C18360B157F8FB8B881F /* MyFirtCustomPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyFirtCustomPod-prefix.pch"; sourceTree = "<group>"; };
-		A397703638B216C0BE977C8D7440BE5A /* MyFirtCustomPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MyFirtCustomPod.debug.xcconfig; sourceTree = "<group>"; };
+		A788D01343F5E3B3603DCFC56CB75399 /* DashboardViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DashboardViewController.swift; path = MyFirtCustomPod/Classes/DashboardViewController.swift; sourceTree = "<group>"; };
 		AA99567063649C38B1429B244113C057 /* Pods-MyFirtCustomPod_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyFirtCustomPod_Example-Info.plist"; sourceTree = "<group>"; };
-		BD767726A8E734C07AE064B76B4B749A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		C4DBEB56C4DC8E266F2AD69C4588C378 /* MyFirtCustomPod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MyFirtCustomPod-dummy.m"; sourceTree = "<group>"; };
+		B0285AED841B9E79F1BC30402B0A08E3 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MyFirtCustomPod/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		C1C14622F9EC25DD75CE0AA04AD4BADD /* MyFirtCustomPod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyFirtCustomPod-prefix.pch"; sourceTree = "<group>"; };
+		C48D7BF755D170B1755CAD543718EC95 /* ResourceBundle-MyFirtCustomPod-MyFirtCustomPod-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MyFirtCustomPod-MyFirtCustomPod-Info.plist"; sourceTree = "<group>"; };
 		C8513B302D1196FA5FFD259CD867042C /* Pods-MyFirtCustomPod_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyFirtCustomPod_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		CD6C0EF241B4225DEC024AFAC7FDD854 /* MyFirtCustomPod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyFirtCustomPod-umbrella.h"; sourceTree = "<group>"; };
 		CD7A5C0CA59CD71EF1D6B50FB4BDE289 /* Pods-MyFirtCustomPod_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyFirtCustomPod_Tests"; path = Pods_MyFirtCustomPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D15FC204E92150E51136D050765C3835 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		D4919B72254924B94D36BF81CC38921B /* Pods-MyFirtCustomPod_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyFirtCustomPod_Tests-Info.plist"; sourceTree = "<group>"; };
 		DB59D3CF3A6B46BC96A698D354D766D0 /* Pods-MyFirtCustomPod_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyFirtCustomPod_Example-dummy.m"; sourceTree = "<group>"; };
 		E2F18AB6F8E53DC06CF3425972945EB2 /* Pods-MyFirtCustomPod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyFirtCustomPod_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E3EE503DC03A6566405203AFB2290BAA /* Pods-MyFirtCustomPod_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MyFirtCustomPod_Example"; path = Pods_MyFirtCustomPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8E5D107439C26AEDC6866673ADC338B /* Pods-MyFirtCustomPod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyFirtCustomPod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EBF705EF779D54F2764B0468355C0DD0 /* DashboardVC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DashboardVC.swift; path = MyFirtCustomPod/Classes/DashboardVC.swift; sourceTree = "<group>"; };
 		F2A901FDA9FB7A527A9815C3E927117D /* Pods-MyFirtCustomPod_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyFirtCustomPod_Tests-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,11 +97,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C3004FE7EE607B90F3ABFA9E808550E3 /* Frameworks */ = {
+		C5C2AC6C54CBA3981449EC583891D247 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				180ABA93644A0EA2C5FC2486851B8049 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,6 +109,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				B95704E6D65601928127D22DB1AD72BF /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F7545C91B3358AABCE117DD6AEB7D59E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAC1B0EBC534DA5997210F5D6F554CCF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -129,6 +148,20 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		3DD3EE9C81FBC29BFA8B63ABE0941EA1 /* MyFirtCustomPod */ = {
+			isa = PBXGroup;
+			children = (
+				EBF705EF779D54F2764B0468355C0DD0 /* DashboardVC.swift */,
+				A788D01343F5E3B3603DCFC56CB75399 /* DashboardViewController.swift */,
+				6AFCC653A3E2135735413390BF0E81C2 /* Images. xcassets.xcassets */,
+				B0285AED841B9E79F1BC30402B0A08E3 /* ReplaceMe.swift */,
+				987E6C6DF0F1AC57D46066E6248C0130 /* Pod */,
+				726A7902DFA81D6E3AE43A1FFC890E53 /* Support Files */,
+			);
+			name = MyFirtCustomPod;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,59 +187,50 @@
 			path = "Target Support Files/Pods-MyFirtCustomPod_Example";
 			sourceTree = "<group>";
 		};
-		82731960E765C55F61179EF1142DF66B /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				9D6A9F5A5CE40081FCAD4672972D9776 /* MyFirtCustomPod */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		914971B05AF71F173FBAA2FEC85AF31E /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				7FD7478B0C0DAD658519A033FE5E3F94 /* MyFirtCustomPod.modulemap */,
-				C4DBEB56C4DC8E266F2AD69C4588C378 /* MyFirtCustomPod-dummy.m */,
-				7450CAECE345C7D402311E25F24F9EFA /* MyFirtCustomPod-Info.plist */,
-				A06981B2DC28C18360B157F8FB8B881F /* MyFirtCustomPod-prefix.pch */,
-				71D2A2079D16A25B122D0A1229059289 /* MyFirtCustomPod-umbrella.h */,
-				A397703638B216C0BE977C8D7440BE5A /* MyFirtCustomPod.debug.xcconfig */,
-				8171F74AB41B2C5F76BFE0CE92A849C8 /* MyFirtCustomPod.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MyFirtCustomPod";
-			sourceTree = "<group>";
-		};
-		9D6A9F5A5CE40081FCAD4672972D9776 /* MyFirtCustomPod */ = {
-			isa = PBXGroup;
-			children = (
-				7A389EBAF275C5FE80DE54882DFC874B /* DashboardVC.swift */,
-				7BED169B930D727A5180858AFA0BB220 /* DashboardViewController.swift */,
-				302AC271E2CF0424E2EECC3F6D74804F /* ReplaceMe.swift */,
-				E1DB301EF9B2C8B858A632A6C11710CA /* Pod */,
-				914971B05AF71F173FBAA2FEC85AF31E /* Support Files */,
-			);
-			name = MyFirtCustomPod;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		B60311800D21AD85F03A69A4BCEDEC32 /* Products */ = {
+		66CC5A9779668D12982422FE8D201C03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				46151BE7F1D93CEF76FCB5D7B61B2BC2 /* MyFirtCustomPod */,
+				2E2746A0071492ACF1FA53026D3042E7 /* MyFirtCustomPod-MyFirtCustomPod */,
 				E3EE503DC03A6566405203AFB2290BAA /* Pods-MyFirtCustomPod_Example */,
 				CD7A5C0CA59CD71EF1D6B50FB4BDE289 /* Pods-MyFirtCustomPod_Tests */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
+		726A7902DFA81D6E3AE43A1FFC890E53 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				696A5123B9E2514ADA0F10598D1ED8DA /* MyFirtCustomPod.modulemap */,
+				91C5B6C26FC2E6B008820A1EA9458274 /* MyFirtCustomPod-dummy.m */,
+				648626B513D33FCE90AE7A975036D291 /* MyFirtCustomPod-Info.plist */,
+				C1C14622F9EC25DD75CE0AA04AD4BADD /* MyFirtCustomPod-prefix.pch */,
+				CD6C0EF241B4225DEC024AFAC7FDD854 /* MyFirtCustomPod-umbrella.h */,
+				4BE008DAB2AA0B5D91B84BB931FDCAA4 /* MyFirtCustomPod.debug.xcconfig */,
+				4C1B422A9D9DB7BE36B9CAA04E170727 /* MyFirtCustomPod.release.xcconfig */,
+				C48D7BF755D170B1755CAD543718EC95 /* ResourceBundle-MyFirtCustomPod-MyFirtCustomPod-Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MyFirtCustomPod";
+			sourceTree = "<group>";
+		};
+		987E6C6DF0F1AC57D46066E6248C0130 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				13529DC7AE853D284C40FF12F3B1A693 /* LICENSE */,
+				65190BEF9DB0692A15981EC025775608 /* MyFirtCustomPod.podspec */,
+				D15FC204E92150E51136D050765C3835 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				82731960E765C55F61179EF1142DF66B /* Development Pods */,
+				F6B867A4F12ED5C16CC670525CE9E313 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				B60311800D21AD85F03A69A4BCEDEC32 /* Products */,
+				66CC5A9779668D12982422FE8D201C03 /* Products */,
 				0CDA58742F6CA25F953B7B6E88A8C083 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -219,24 +243,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E1DB301EF9B2C8B858A632A6C11710CA /* Pod */ = {
+		F6B867A4F12ED5C16CC670525CE9E313 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BD767726A8E734C07AE064B76B4B749A /* LICENSE */,
-				813637FC455CFE2462A0248A79D24D3D /* MyFirtCustomPod.podspec */,
-				37DAB82009EDB636DDA713CCA527D7A5 /* README.md */,
+				3DD3EE9C81FBC29BFA8B63ABE0941EA1 /* MyFirtCustomPod */,
 			);
-			name = Pod;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0A59E266A1A3167CA13E779E9EBE003C /* Headers */ = {
+		626AC3130A344C01F3011779FE6D2107 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DF7EDE2A4D94EEDFB82D947E58C346FB /* MyFirtCustomPod-umbrella.h in Headers */,
+				4380B3BDED8A1F3751DCAF98A7370E80 /* MyFirtCustomPod-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,21 +283,39 @@
 /* Begin PBXNativeTarget section */
 		3296CDF826E5CE581DDEEEB043805EA7 /* MyFirtCustomPod */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 008F8101A2988F2FEF7322ABC865086D /* Build configuration list for PBXNativeTarget "MyFirtCustomPod" */;
+			buildConfigurationList = E5D4958D8028B2CC8F3B8631FEEACDC8 /* Build configuration list for PBXNativeTarget "MyFirtCustomPod" */;
 			buildPhases = (
-				0A59E266A1A3167CA13E779E9EBE003C /* Headers */,
-				77DF29BC9C6426853BCBF81BB912106C /* Sources */,
-				C3004FE7EE607B90F3ABFA9E808550E3 /* Frameworks */,
-				767D94D4DE941A22E6997C1495C54F18 /* Resources */,
+				626AC3130A344C01F3011779FE6D2107 /* Headers */,
+				FFB0E54E17C85AB993D6F27F47680984 /* Sources */,
+				F7545C91B3358AABCE117DD6AEB7D59E /* Frameworks */,
+				5315768A0AE5CFD32199ACE967953D0F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				2D18045419376BC27022D75BEEC904E2 /* PBXTargetDependency */,
 			);
 			name = MyFirtCustomPod;
 			productName = MyFirtCustomPod;
 			productReference = 46151BE7F1D93CEF76FCB5D7B61B2BC2 /* MyFirtCustomPod */;
 			productType = "com.apple.product-type.framework";
+		};
+		7BE16BCC8C19B7741F781748D65EE380 /* MyFirtCustomPod-MyFirtCustomPod */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 72C6DCCD64944EF5E79B0C3123894457 /* Build configuration list for PBXNativeTarget "MyFirtCustomPod-MyFirtCustomPod" */;
+			buildPhases = (
+				7AE261706D1D1D278324E65B43CA556C /* Sources */,
+				C5C2AC6C54CBA3981449EC583891D247 /* Frameworks */,
+				434B6299C2AB68959A04E7EFB17865E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MyFirtCustomPod-MyFirtCustomPod";
+			productName = MyFirtCustomPod;
+			productReference = 2E2746A0071492ACF1FA53026D3042E7 /* MyFirtCustomPod-MyFirtCustomPod */;
+			productType = "com.apple.product-type.bundle";
 		};
 		87CC0CB33CD2849B8A9BE5C1582018EB /* Pods-MyFirtCustomPod_Example */ = {
 			isa = PBXNativeTarget;
@@ -289,7 +329,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				86B5746F083F7C56E76E70D4F4279417 /* PBXTargetDependency */,
+				C56E15278D419081EE518CC5A2CA026D /* PBXTargetDependency */,
 			);
 			name = "Pods-MyFirtCustomPod_Example";
 			productName = Pods_MyFirtCustomPod_Example;
@@ -308,7 +348,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				1301BF3C3A634A840FC3E3165D100602 /* PBXTargetDependency */,
+				BBB10CFD94D29E7EE0FF040E4D263C91 /* PBXTargetDependency */,
 			);
 			name = "Pods-MyFirtCustomPod_Tests";
 			productName = Pods_MyFirtCustomPod_Tests;
@@ -333,11 +373,12 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = B60311800D21AD85F03A69A4BCEDEC32 /* Products */;
+			productRefGroup = 66CC5A9779668D12982422FE8D201C03 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				3296CDF826E5CE581DDEEEB043805EA7 /* MyFirtCustomPod */,
+				7BE16BCC8C19B7741F781748D65EE380 /* MyFirtCustomPod-MyFirtCustomPod */,
 				87CC0CB33CD2849B8A9BE5C1582018EB /* Pods-MyFirtCustomPod_Example */,
 				C9EB9915F0DBB9563FF13902ADFDF395 /* Pods-MyFirtCustomPod_Tests */,
 			);
@@ -345,10 +386,19 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		767D94D4DE941A22E6997C1495C54F18 /* Resources */ = {
+		434B6299C2AB68959A04E7EFB17865E6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D2D82ADC9E1FD53C9A407200F608CF7 /* Images. xcassets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5315768A0AE5CFD32199ACE967953D0F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A180DF5D6C52F36708A5961EF2AEED3 /* MyFirtCustomPod-MyFirtCustomPod in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,14 +419,10 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		77DF29BC9C6426853BCBF81BB912106C /* Sources */ = {
+		7AE261706D1D1D278324E65B43CA556C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEA7622E7524042F46AE8E63621FAEE9 /* DashboardVC.swift in Sources */,
-				955D384EF95A1F4A6FFE216DAF679DAC /* DashboardViewController.swift in Sources */,
-				B4CD4D270D0081A7A7067254A1DC3BA1 /* MyFirtCustomPod-dummy.m in Sources */,
-				BC18CAF8E02E2C4A70353CAAC4EA25C3 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,27 +442,109 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FFB0E54E17C85AB993D6F27F47680984 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAE6178D884596F2BCE31828BDA49A01 /* DashboardVC.swift in Sources */,
+				73A66650B989B9AEC39FD244577953D8 /* DashboardViewController.swift in Sources */,
+				100F9E2ECFC499439F186595E1049C9A /* MyFirtCustomPod-dummy.m in Sources */,
+				ACC70A49686BC179053FAA3F0739505D /* ReplaceMe.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1301BF3C3A634A840FC3E3165D100602 /* PBXTargetDependency */ = {
+		2D18045419376BC27022D75BEEC904E2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "MyFirtCustomPod-MyFirtCustomPod";
+			target = 7BE16BCC8C19B7741F781748D65EE380 /* MyFirtCustomPod-MyFirtCustomPod */;
+			targetProxy = 9EB30E26E8DBBC629A7C6876AB042141 /* PBXContainerItemProxy */;
+		};
+		BBB10CFD94D29E7EE0FF040E4D263C91 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MyFirtCustomPod_Example";
 			target = 87CC0CB33CD2849B8A9BE5C1582018EB /* Pods-MyFirtCustomPod_Example */;
-			targetProxy = 05D82A759FA8A055D21F80ECB4EE002E /* PBXContainerItemProxy */;
+			targetProxy = 5B79EA57AE84C151FC7EB8B0EAC8E944 /* PBXContainerItemProxy */;
 		};
-		86B5746F083F7C56E76E70D4F4279417 /* PBXTargetDependency */ = {
+		C56E15278D419081EE518CC5A2CA026D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MyFirtCustomPod;
 			target = 3296CDF826E5CE581DDEEEB043805EA7 /* MyFirtCustomPod */;
-			targetProxy = 54134BE5A1EC9B021FD421AD2C17BB07 /* PBXContainerItemProxy */;
+			targetProxy = 5C9FD1D280F77DD1F2DB8F1F446B42F1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		49FAD22292A7D3F0EC609D27025E19F3 /* Release */ = {
+		45BF7312F5DDAEE71176C35221132A00 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8171F74AB41B2C5F76BFE0CE92A849C8 /* MyFirtCustomPod.release.xcconfig */;
+			baseConfigurationReference = 4BE008DAB2AA0B5D91B84BB931FDCAA4 /* MyFirtCustomPod.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod.modulemap";
+				PRODUCT_MODULE_NAME = MyFirtCustomPod;
+				PRODUCT_NAME = MyFirtCustomPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4F234F5F34FF3039D9F6CABF2A8463ED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4BE008DAB2AA0B5D91B84BB931FDCAA4 /* MyFirtCustomPod.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MyFirtCustomPod";
+				IBSC_MODULE = MyFirtCustomPod;
+				INFOPLIST_FILE = "Target Support Files/MyFirtCustomPod/ResourceBundle-MyFirtCustomPod-MyFirtCustomPod-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_NAME = MyFirtCustomPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		6A48DB93790BAEF23F5F4A89CBF1283E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C1B422A9D9DB7BE36B9CAA04E170727 /* MyFirtCustomPod.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MyFirtCustomPod";
+				IBSC_MODULE = MyFirtCustomPod;
+				INFOPLIST_FILE = "Target Support Files/MyFirtCustomPod/ResourceBundle-MyFirtCustomPod-MyFirtCustomPod-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				PRODUCT_NAME = MyFirtCustomPod;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		77F495F6F83C4831B1B803D887B23603 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C1B422A9D9DB7BE36B9CAA04E170727 /* MyFirtCustomPod.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -675,37 +803,6 @@
 			};
 			name = Debug;
 		};
-		F52FE47FBCFE02D6D84E11D295011CDE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A397703638B216C0BE977C8D7440BE5A /* MyFirtCustomPod.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MyFirtCustomPod/MyFirtCustomPod.modulemap";
-				PRODUCT_MODULE_NAME = MyFirtCustomPod;
-				PRODUCT_NAME = MyFirtCustomPod;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		F7D56C4E2A381EE7E0B6F5B1B863F9C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E2F18AB6F8E53DC06CF3425972945EB2 /* Pods-MyFirtCustomPod_Example.debug.xcconfig */;
@@ -742,15 +839,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		008F8101A2988F2FEF7322ABC865086D /* Build configuration list for PBXNativeTarget "MyFirtCustomPod" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F52FE47FBCFE02D6D84E11D295011CDE /* Debug */,
-				49FAD22292A7D3F0EC609D27025E19F3 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		02EFFC961AF64F1AC6E1E565C0DE2E5F /* Build configuration list for PBXNativeTarget "Pods-MyFirtCustomPod_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -769,11 +857,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		72C6DCCD64944EF5E79B0C3123894457 /* Build configuration list for PBXNativeTarget "MyFirtCustomPod-MyFirtCustomPod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4F234F5F34FF3039D9F6CABF2A8463ED /* Debug */,
+				6A48DB93790BAEF23F5F4A89CBF1283E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		8A19C59A7977373462AF167CC1158108 /* Build configuration list for PBXNativeTarget "Pods-MyFirtCustomPod_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EF4920990508852E4C119A7F2AF99A71 /* Debug */,
 				E2791B480F67D5D62A81C656B147A39E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E5D4958D8028B2CC8F3B8631FEEACDC8 /* Build configuration list for PBXNativeTarget "MyFirtCustomPod" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45BF7312F5DDAEE71176C35221132A00 /* Debug */,
+				77F495F6F83C4831B1B803D887B23603 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

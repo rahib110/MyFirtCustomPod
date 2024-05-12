@@ -13,6 +13,6 @@ class Logger {
     }
     
     func printVersion() -> String {
-        return "current version: 0.1.0"
+        return "current version: 0.2.0"
     }
 }

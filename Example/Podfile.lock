@@ -1,5 +1,5 @@
 PODS:
-  - MyFirtCustomPod (0.1.0)
+  - MyFirtCustomPod (0.2.0)
 
 DEPENDENCIES:
   - MyFirtCustomPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyFirtCustomPod: 77391c8c596f7b8745b735a4baa2c9f2e32d8fa0
+  MyFirtCustomPod: a106b6e9e411823cd70d18e6f6245fe5bd9f0b5c
 
 PODFILE CHECKSUM: ef0aa2e5644e568eccd55dca5955ac75cd4079b2
 
