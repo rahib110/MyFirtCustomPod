@@ -1,0 +1,22 @@
+{
+  "name": "MyFirtCustomPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirtCustomPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rahib110/MyFirtCustomPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rahib110": "rahib110@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rahib110/MyFirtCustomPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyFirtCustomPod/Classes/**/*"
+}

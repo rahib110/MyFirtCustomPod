@@ -1,0 +1,6 @@
+framework module MyFirtCustomPod {
+  umbrella header "MyFirtCustomPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MyFirtCustomPod (0.1.0)
+
+DEPENDENCIES:
+  - MyFirtCustomPod (from `../`)
+
+EXTERNAL SOURCES:
+  MyFirtCustomPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyFirtCustomPod: 3d6bfe9497152cec9beae55baa40150756948621
+
+PODFILE CHECKSUM: ef0aa2e5644e568eccd55dca5955ac75cd4079b2
+
+COCOAPODS: 1.15.2

@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/rahib110/MyFirtCustomPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'rahib110' => 'rahib110@gmail.com' }
+  s.author           = { 'RAG_Devs' => 'rahib110@gmail.com' }
   s.source           = { :git => 'https://github.com/rahib110/MyFirtCustomPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'MyFirtCustomPod/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'MyFirtCustomPod' => ['MyFirtCustomPod/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'MyFirtCustomPod' => ['MyFirtCustomPod/Assets/**/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
